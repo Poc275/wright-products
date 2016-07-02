@@ -193,6 +193,10 @@ hr.small {
     -o-background-size: cover;
 }
 
+.callout ol {
+    font-size: 20px;
+}
+
 /* Portfolio */
 
 .portfolio {
@@ -223,18 +227,18 @@ hr.small {
 
 /* Map */
 
-.map {
+/*.map {
     height: 500px;
 }
-
-@media(max-width:768px) {
+*/
+/*@media(max-width:768px) {
     .map {
         height: 75%;
     }
-}
+}*/
 
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 50px 0;
 }
